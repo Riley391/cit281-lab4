@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: "CIT281 Lab 4"
+description: "In this lab we practiced creating Fastify web servers, including practice with git and MIME types"
